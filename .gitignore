@@ -12,7 +12,7 @@ venv/
 # Environment variables
 .env
 *.env
-
+.venv
 # Log files
 *.log
 
